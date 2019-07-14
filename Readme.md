@@ -1,4 +1,6 @@
 # GIT Course
+iouiooiuijhjghgffgddfdfgdgfdgfdfdfd
+
 - Teste di Git com curso do Udemy
 
 - Segunda insercao no arquivo
